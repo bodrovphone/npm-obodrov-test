@@ -1,1 +1,1 @@
-module.exports.stringLength = anyString => anyString.length
+module.exports.stringLength = anyString => console.log(`This is version 1.0.1 ... ${anyString.length}`)
