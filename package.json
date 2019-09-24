@@ -1,0 +1,16 @@
+{
+  "name": "npm-obodrov-test",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodrovphone/npm-obodrov-test.git"
+  },
+  "author": "Oleksandr Bodrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bodrovphone/npm-obodrov-test/issues"
+  },
+  "homepage": "https://github.com/bodrovphone/npm-obodrov-test#readme"
+}
